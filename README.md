@@ -1,4 +1,4 @@
-# SOFE 3700U - Final Project - Group 22
+# Automobile Accident Database
 Application that stores vehicle accident data in a SQLite database, acts as a web server, and creates a REST API to serve JSON files. Utilizes Google's GoogleMaps API to display city locations of crashes.
 
 # Windows Setup
